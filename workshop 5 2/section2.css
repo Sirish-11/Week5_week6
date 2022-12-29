@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+*{
+    background-color: rgb(243, 198, 242);
+}
+.title{
+    text-align: center;
+    padding: 30px;
+}
+
+.Context{
+    padding: 70px;
+    justify-content:left;
+    display: flex;
+
+}
+.first{
+    padding-left:1px;
+    margin-left: 15px;
+}
+.text{
+    padding-left: 65px;
+}
+.date{
+   padding-top: 15px;
+}
+
+
+.second{
+    padding-left:25px;
+    margin-left: 190px;
+
+}
+.info1{
+   padding-left: 65px;
+}
+.date2{
+    padding-top: 15px;
+ }
+.third{
+    padding-left:25px;
+    margin-left: 170px;
+}
+.info5{
+    padding-left: 75px;
+}
+.date3{
+    padding-top: 15px;
+ }
+
+
+
+ 
+
+
+

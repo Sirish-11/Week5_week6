@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0%
+  padding:0%
+  }
+body{
+  font-family:"open sans",sans-serif;
+}
+.layoutcontext {
+  display:flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  
+  }
+.inside{
+  width: 50%;
+  background-color: rgb(23, 45, 60);
+  padding: 5%;
+  color: pink; 
+  height: 160vh;
+}
+h1 {
+  font-size: 50px;
+  line-height: 1.1;
+  margin-bottom: 30px;
+  font-family: "Unbounded", cursive;
+}
+h2 {
+  margin-bottom: 550px;
+  font-weight: 450;
+}
+.figure{
+  width: 50%;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.image{
+    justify-content: right;
+}
+.photo{
+  width: 550px;
+  height: 750px;
+}
+.button {
+  margin-top: 20px;
+}
+
+.button a {
+  display: inline-block;
+  padding: 10px 50px;
+  background: pink;
+  border-radius: 30px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  line-height: 1.4;
+  font-weight: 800;
+  transition: all 0.5s ease;
+}
+
+.button a:hover {
+  background: black;
+  color: pink;
+}
