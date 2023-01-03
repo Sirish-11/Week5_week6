@@ -28,14 +28,15 @@
 }
 .right-coloumn{
     width: 50%;
+    height: 100%;
 }
 .right-coloumn.image{
     width: 100%;
 }
-.content-wrapper{
-    display: flex;
-    align-items: center;
 
+img{
+    height: 50%;
+    width: 96%;
 }
 .button a {
   display: inline-block;
