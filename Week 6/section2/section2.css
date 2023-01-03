@@ -1,27 +1,52 @@
-@import url("https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap");
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-* {
-background-color:rgb(236, 167, 97);
-display: flex;
-  }
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+*{
+  background-color: rgb(243, 198, 242);
+}
+.title{
+  text-align: center;
+  padding: 30px;
+}
 
-  .title{
-    padding: 50px;
-    text-align: center;
+.Context{
+  padding: 70px;
+  justify-content:left;
+  display: flex;
+
 }
 .first{
-  text-align: center;
+  padding-left:1px;
+  margin-left: 15px;
 }
-.second{
-  text-align: left;
+.text{
+  padding-left: 65px;
 }
 .date{
-    padding: 20px;
+ padding-top: 15px;
+}
+
+
+.second{
+  padding-left:25px;
+  margin-left: 190px;
+
+}
+.info1{
+ padding-left: 65px;
+}
+.date2{
+  padding-top: 15px;
 }
 .third{
-  text-align: right;
+  padding-left:25px;
+  margin-left: 170px;
+}
+.info5{
+  padding-left: 75px;
+}
+.date3{
+  padding-top: 15px;
 }
