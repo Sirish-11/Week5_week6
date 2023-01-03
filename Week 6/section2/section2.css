@@ -34,6 +34,14 @@
   margin-left: 190px;
 
 }
+.second_figure{
+  height: 5px;
+  width: 10px;
+}
+img{
+  height: 200px;
+  width: 300px;
+}
 .info1{
  padding-left: 65px;
 }
