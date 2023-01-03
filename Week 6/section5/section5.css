@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    background-color: wheat;
+}
+.text{
+    display: flex;
+}
+.up{
+    font-size: xx-large;
+    padding: 30px;
+    margin: 10px;
+
+}
+.upleft{
+    padding: 30px;
+    margin: 20px;
+font-size: x-large;
+}
+.image{
+    padding: 30px;
+}
+img{
+    padding-left: 10px;
+    width: 100%;
+}
